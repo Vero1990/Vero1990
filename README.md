@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vero1990
 - 👀 I’m interested in python programming. 
-- 🌱 I’m currently learning how to code in python with Udemy online courses. I am a self learner, nothing can stops me from being better. 
+- 🌱 I work as a automation tester with JS and Cypress.  
 - 📫 My contact informations are veronikabadevova@gmail.com
 
 <!---
