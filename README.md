@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vero1990
-- 👀 I’m interested in python programming. 
+- 👀 I’m interested in JS and Java programming. 
 - 🌱 I work as a automation tester with JS and Cypress.  
 - 📫 My contact informations are veronikabadevova@gmail.com
 
